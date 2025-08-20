@@ -7,3 +7,5 @@
 | Í | High, piercing, long whine | /iː/ (high, piercing) | /i˥/ | General | Unpleasant | Excited |
 | I̗ | Very low, soft whine | /i/ (deep, soft) | /i˩/ | Omega | Unpleasant | Calm |
 | I̤ | Short, choppy whine | /ɪ/ (clipped) | /ɪ/ | General | Unpleasant | Excited |
+| I᷵ | Low to High Pitch, exaggerated | /ɛ:/ | /i:˩ʃ/ (low-high, long) | General | Neutral | Calm |
+| I᷸ | Mid to Low Pitch, stressed | /ɛ:/ | /ɛ:ʃ˩/ (low-high, long) | General | Unpleasant | Excited |
