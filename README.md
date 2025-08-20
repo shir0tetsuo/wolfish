@@ -3,9 +3,8 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 
 ## Vocalization Sequences
 
-### [Barks (A/Y)](barks_ay.md)
+### [Barks, Growls, Yawns (M/R/A/Y)](barks_growls_mray.md)
 ### [Chuffs, Sneezes (ʧ)](chuffs_c.md)
-### [Growls (A/R/M)](growls_arm.md)
 ### [Howls (O)](howls_o.md)
 ### [Huffs (H)](huffs_h.md)
 ### [Whines (I/U)](whines_iu.md)
@@ -13,7 +12,7 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 
 ## Contextual Sequences
 
-### [Interactions (Ȧ/C)](interactions_ac.md)
+### [Interactions (ɬ/C)](interactions_ac.md)
 ### [Scent Marking (S)](scent_s.md)
 ### [Digging/Stomping (D/F)](stomping_digging_df.md)
 ### [Tail Movements (T)](tailmovements_t.md)
