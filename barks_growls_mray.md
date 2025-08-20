@@ -23,5 +23,6 @@
 
 | Glyph | Pitch/Tone | Phonetic/Pronunciation (Inuk-adapted) | Pronunciation (IPA) | Role | Valence (Pleasant, Unpleasant) | Arousal (Calm, Excited) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| M | Low, humming tone | /m/ (soft, continuous) | /m/ | General | Pleasant | Calm |
+| M | Low, humming tone | /m/ (soft, short) | /m/ | General | Pleasant | Calm |
+| M᷒ | Low, humming tone | /m:/ (soft, continuous) | /m/ | General | Pleasant | Calm |
 | M̃ | Deeper, rumbly mumble | /m/ (deeper pitch, more resonant) | /m̃/ | General | Pleasant | Calm |
