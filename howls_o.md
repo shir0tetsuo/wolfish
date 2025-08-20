@@ -1,4 +1,4 @@
-# **Howls (O)**
+### **Howls (O)**
 
 | Glyph | Pitch/Tone | Phonetic/Pronunciation (Inuk-adapted) | Pronunciation (IPA) | Role | Valence (Pleasant, Unpleasant) | Arousal (Calm, Excited) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

@@ -1,4 +1,4 @@
-# **Chuffs, Sneezes (ʧ)**
+### **Chuffs, Sneezes (ʧ)**
 
 | Glyph | Pitch/Tone | Phonetic/Pronunciation (Inuk-adapted) | Pronunciation (IPA) | Role | Valence (Pleasant, Unpleasant) | Arousal (Calm, Excited) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

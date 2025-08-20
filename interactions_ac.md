@@ -1,4 +1,4 @@
-### Social Interaction (ɬ/C)
+### Social Interaction (ɬ/ʘ)
 
 | Glyph | Description | Purpose/Context |
 | :--- | :--- | :--- |
@@ -6,8 +6,8 @@
 | ɬ︠ | Play solicitation/nudge | Affiliative/Request for play |
 | ɬ᷽ | I am here nudge | Affiliative/Bonding |
 | ɬ᷽︠ | Social nuzzling or rubbing | Affiliative/Friendly greeting |
-| C | Staredown | Conflict/Challenge |
-| Ć | Lunge/snap | Conflict/Aggression |
+| ʘ | Staredown | Conflict/Challenge |
+| ʘ᷀ | Lunge/snap | Conflict/Aggression |
 
 ### Nipping (N)
 

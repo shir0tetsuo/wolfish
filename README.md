@@ -12,11 +12,12 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 
 ## Contextual Sequences
 
-### [Interactions (ɬ/C)](interactions_ac.md)
+### [Interactions (ɬ/ʘ)](interactions_ac.md)
 ### [Scent Marking (S)](scent_s.md)
 ### [Digging/Stomping (D/F)](stomping_digging_df.md)
 ### [Tail Movements (T)](tailmovements_t.md)
 ### [Ears/Eyes (E)](ears_eyes_e.md)
+### [Posture, Pawing (ʑ/P)](posture_p.md)
 
 ## Special Syntax Diacritics
 - It's possible to have two vocalizations in the same sequence, such as Ç͢G᪺᷀ (using `U+0362` "COMBINING DOUBLE RIGHTWARDS ARROW BELOW")
