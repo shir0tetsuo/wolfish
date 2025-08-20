@@ -84,11 +84,11 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 
 ### **Body Posture (P)**
 | Glyph | Description | Purpose/Context |
-| :--- | :--- | :--- |
-| P | Neutral posture | Calm, relaxed |
-| Ṕ | Dominant posture | Assertive, confident |
-| P̃ | Submissive posture | Fearful, non-threatening |
-| P̌ | Play bow posture | Play invitation |
+| :---- | :---------- | :-------------- |
+| P     | Neutral posture | Calm, relaxed |
+| Ṕ     | Dominant posture | Assertive, confident |
+| P̃     | Submissive posture | Fearful, non-threatening |
+| P̌     | Play bow posture | Play invitation |
 
 ### **Scent Marking (S)**
 | Glyph | Description | Purpose/Context |
@@ -123,7 +123,7 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 | P̌ | Playful pawing | Play invitation, to get a reaction |
 
 ### Ears/Eyes (E)
-| Glyph | Description | Purpose/Context
+| Glyph | Description | Purpose/Context |
 | :--- | :--- | :--- |
 | E | Neutral/relaxed ears and eyes | Calm, attentive, and non-threatening |
 | É | Forward-facing ears | High attention, alertness, and interest | 
