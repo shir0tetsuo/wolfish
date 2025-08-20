@@ -93,44 +93,44 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 ### **Scent Marking (S)**
 | Glyph |Description | Purpose/Context |
 | :---| :---| :--- |
-S | Scent mark | General/Territorial declaration
-Ś | Fresh scent mark | Recent presence, warning
-S̃ | Old scent mark | Historical presence, fading claim
+| S | Scent mark | General/Territorial declaration |
+| Ś | Fresh scent mark | Recent presence, warning |
+| S̃ | Old scent mark | Historical presence, fading claim |
 
 ### Interactions (Ȧ/C)
 | Glyph |Description | Purpose/Context |
 | :---| :---| :--- |
-Ȧ | Social nuzzling or rubbing | Affiliative/Friendly greeting
-Ȧ̃ | Social grooming/licking | Affiliative/Bonding
-Ȧ̌ | Play solicitation/nudge | Affiliative/Request for play
-C | Staredown | Conflict/Challenge
-Ć | Lunge/snap | Conflict/Aggression
+| Ȧ | Social nuzzling or rubbing | Affiliative/Friendly greeting |
+| Ȧ̃ | Social grooming/licking | Affiliative/Bonding |
+| Ȧ̌ | Play solicitation/nudge | Affiliative/Request for play |
+| C | Staredown | Conflict/Challenge |
+| Ć | Lunge/snap | Conflict/Aggression |
 
 ### Digging/Stomping (D/F)
 | Glyph |Description | Purpose/Context |
 | :---| :---| :--- |
-D | Digging | Seeking prey, comfort, or for entertainment
-D́ | Energetic, frantic digging | High arousal, excitement
-D̃ | Slow, methodical digging | Burying or hiding an item
-F | Stomping feet | Frustration, demanding attention
-F́ | Fast, forceful stomping | High frustration, temper tantrum
+| D | Digging | Seeking prey, comfort, or for entertainment |
+| D́ | Energetic, frantic digging | High arousal, excitement |
+| D̃ | Slow, methodical digging | Burying or hiding an item |
+| F | Stomping feet | Frustration, demanding attention |
+| F́ | Fast, forceful stomping | High frustration, temper tantrum |
 
 ### Pawing (P)
 | Glyph |Description | Purpose/Context |
 | :---| :---| :--- |
-Ṕ | Pawing (general) | Seeking attention, communicating a need (e.g., "let me in")
-P̃ | Gentle pawing | Affectionate, "pet me back"
-P̌ | Playful pawing | Play invitation, to get a reaction
+| Ṕ | Pawing (general) | Seeking attention, communicating a need (e.g., "let me in") |
+| P̃ | Gentle pawing | Affectionate, "pet me back" |
+| P̌ | Playful pawing | Play invitation, to get a reaction |
 
 ### Ears/Eyes (E)
 Glyph | Description | Purpose/Context
 | :---| :---| :--- |
-E | Neutral/relaxed ears and eyes | Calm, attentive, and non-threatening
-É | Forward-facing ears | High attention, alertness, and interest
-È | Flattened ears | Fear, anxiety, or submission
-Ë | Back/outward-facing ears | Annoyance, irritation, or an aggressive threat
-Ê | Darting eyes, quick glances | Nervousness or caution
-Ẽ | Direct, steady eye contact | Dominance, challenge, or a stare-down
-Ĕ | Soft, blinking eyes | Affection, submission, or a friendly greeting
-É | Squinted eyes or "soft eye" | Calmness and a non-threatening demeanor
-Ȇ | Closed or averted eyes | Disengagement or a refusal to interact
+| E | Neutral/relaxed ears and eyes | Calm, attentive, and non-threatening |
+| É | Forward-facing ears | High attention, alertness, and interest | 
+| È | Flattened ears | Fear, anxiety, or submission |
+| Ë | Back/outward-facing ears | Annoyance, irritation, or an aggressive threat |
+| Ê | Darting eyes, quick glances | Nervousness or caution |
+| Ẽ | Direct, steady eye contact | Dominance, challenge, or a stare-down |
+| Ĕ | Soft, blinking eyes | Affection, submission, or a friendly greeting |
+| É | Squinted eyes or "soft eye" | Calmness and a non-threatening demeanor |
+| Ȇ | Closed or averted eyes | Disengagement or a refusal to interact |
