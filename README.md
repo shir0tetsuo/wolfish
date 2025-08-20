@@ -83,7 +83,7 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 | T́́ | Fast, high | Circular, helicopter wag | (circle-wag) | General | Pleasant | Excited |
 
 ### **Body Posture (P)**
-| Glyph |Description | Purpose/Context |
+| Glyph | Description | Purpose/Context |
 | :---| :---| :--- |
 | P | Neutral posture | Calm, relaxed |
 | Ṕ | Dominant posture | Assertive, confident |
@@ -91,14 +91,14 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 | P̌ | Play bow posture | Play invitation |
 
 ### **Scent Marking (S)**
-| Glyph |Description | Purpose/Context |
+| Glyph | Description | Purpose/Context |
 | :---| :---| :--- |
 | S | Scent mark | General/Territorial declaration |
 | Ś | Fresh scent mark | Recent presence, warning |
 | S̃ | Old scent mark | Historical presence, fading claim |
 
 ### Interactions (Ȧ/C)
-| Glyph |Description | Purpose/Context |
+| Glyph | Description | Purpose/Context |
 | :---| :---| :--- |
 | Ȧ | Social nuzzling or rubbing | Affiliative/Friendly greeting |
 | Ȧ̃ | Social grooming/licking | Affiliative/Bonding |
@@ -107,7 +107,7 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 | Ć | Lunge/snap | Conflict/Aggression |
 
 ### Digging/Stomping (D/F)
-| Glyph |Description | Purpose/Context |
+| Glyph | Description | Purpose/Context |
 | :---| :---| :--- |
 | D | Digging | Seeking prey, comfort, or for entertainment |
 | D́ | Energetic, frantic digging | High arousal, excitement |
@@ -116,14 +116,14 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 | F́ | Fast, forceful stomping | High frustration, temper tantrum |
 
 ### Pawing (P)
-| Glyph |Description | Purpose/Context |
+| Glyph | Description | Purpose/Context |
 | :---| :---| :--- |
 | Ṕ | Pawing (general) | Seeking attention, communicating a need (e.g., "let me in") |
 | P̃ | Gentle pawing | Affectionate, "pet me back" |
 | P̌ | Playful pawing | Play invitation, to get a reaction |
 
 ### Ears/Eyes (E)
-Glyph | Description | Purpose/Context
+| Glyph | Description | Purpose/Context
 | :---| :---| :--- |
 | E | Neutral/relaxed ears and eyes | Calm, attentive, and non-threatening |
 | É | Forward-facing ears | High attention, alertness, and interest | 
