@@ -19,4 +19,8 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 ### [Ears/Eyes (E)](ears_eyes_e.md)
 
 ## Special Syntax Diacritics
-It's possible to have two vocalizations in the same sequence, such as Ç͢G᪺᷀ (using `U+0362`)
+- It's possible to have two vocalizations in the same sequence, such as Ç͢G᪺᷀ (using `U+0362` "COMBINING DOUBLE RIGHTWARDS ARROW BELOW")
+- Elongation of a sound can occur, such as:
+    - ÒÓ͙ (using `U+0359` "COMBINING ASTERISK BELOW")
+    - ÒÓ̶ (using `U+0336` "COMBINING LONG STROKE OVERLAY")
+    - ÒÓ̴ (using `U+0334` "COMBINING TILDE OVERLAY")
