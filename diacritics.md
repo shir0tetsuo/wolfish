@@ -1,0 +1,5 @@
+- It's possible to have two vocalizations in the same sequence, such as Ç͢G᪺᷀ (using `U+0362` "COMBINING DOUBLE RIGHTWARDS ARROW BELOW")
+- Elongation of a sound can occur, such as:
+    - ÒÓ͙ (using `U+0359` "COMBINING ASTERISK BELOW") (Sometimes in stop gaps)
+    - ÒÓ̶ (using `U+0336` "COMBINING LONG STROKE OVERLAY") (Elongation)
+    - ÒÓ̴ (using `U+0334` "COMBINING TILDE OVERLAY") (Waivered)
