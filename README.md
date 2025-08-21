@@ -18,6 +18,7 @@ Wolfish Language Project for Canadian Wolf-Dog (Inuk)
 ### [Tail Movements (T)](tailmovements_t.md)
 ### [Ears/Eyes (E)](ears_eyes_e.md)
 ### [Posture, Pawing (ʑ/P)](posture_p.md)
+### [Shakes (X)](shake_x.md)
 
 ## Special Syntax Diacritics
 
