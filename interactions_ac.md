@@ -6,6 +6,7 @@
 | ɬ︠ | Play solicitation/nudge | Affiliative/Request for play |
 | ɬ᷽ | I am here nudge | Affiliative/Bonding |
 | ɬ᷽︠ | Social nuzzling or rubbing | Affiliative/Friendly greeting |
+| ɬ︣᷑ | Licking of the chops | Reference to tasty things | 
 | ʘ | Staredown | Conflict/Challenge |
 | ʘ᷀ | Lunge/snap | Conflict/Aggression |
 
